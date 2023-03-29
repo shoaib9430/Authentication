@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 // mongoose.connect('mongodb://localhost/auth_db');
 
 
-mongoose.connect('mongodb+srv://raj:raj0811@cluster0.xpjnzpo.mongodb.net/?retryWrites=true&w=majority');
+mongoose.connect('mongodb+srv://shoaibakhtar9430:nKBshNuCY50Zgvbv@cluster0.jmeumkv.mongodb.net/?retryWrites=true&w=majority');
 
 
 //accuire the connectiontion
